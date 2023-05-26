@@ -1,3 +1,8 @@
+csdn：https://blog.csdn.net/pengbo6665631/article/details/130891721
+
+掘金：https://juejin.cn/post/7237426124669993017
+# A Good Example
+
 A good demo of the plugin's more complete functionality in NestedScrollView
 
 issue: https://github.com/AlexBacich/sticky-headers-table/issues/57
