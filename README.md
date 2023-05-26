@@ -1,3 +1,13 @@
+A good demo of the plugin's more complete functionality in NestedScrollView
+
+issue: https://github.com/AlexBacich/sticky-headers-table/issues/57
+
+example:
+
+![good](https://github.com/pengboboer/sticky-headers-table/assets/39305741/8c855b2f-a4aa-4fd0-ae63-3dbf6f0e9123)
+
+![good_little_2](https://github.com/pengboboer/sticky-headers-table/assets/39305741/36d7d457-e263-4ae9-8246-0b45a04e0282)
+
 # Table Sticky Headers
 
 This package for [Flutter](https://flutter.io) allows you to display two-dimension table with both sticky headers.
